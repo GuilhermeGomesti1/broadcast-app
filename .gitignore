@@ -1,0 +1,9 @@
+node_modules/
+web/node_modules/
+web/dist/
+functions/node_modules/
+functions/lib/
+.env
+web/.env
+*.local
+.firebase/
